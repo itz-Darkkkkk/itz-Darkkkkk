@@ -1,11 +1,7 @@
 -  Hi, I’m @itz-Darkkkkk
+-  Running the agency for discord server development - [Nexora Tech](https://nexoratechltd.netlify.app/)
 -  I’m interested in Developing discord servers
--  I’m currently learning py,css,js,html
--  I’m looking to collaborate on discord bots
+-  I’m currently about py,css,js,html
+-  I’m looking to collaborate on discord bots and community management. 
 -  How to reach me - contact.developerdark@gmail.com
 -  Pronouns:He/him
-
-<!---
-itz-Darkkkkk/itz-Darkkkkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
