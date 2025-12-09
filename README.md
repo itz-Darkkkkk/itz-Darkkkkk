@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 - I'm currently a Professional Discord Developer.<br>- Currently working as CEO for The Tribe.<br>- Management and Executive Head for Shaaringaton.<br>- Founder of Aero Services.<br>- Currently learning AI/ML & Web Development.<br>- Looking forward to connect with you !
 
 
