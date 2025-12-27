@@ -1,5 +1,5 @@
 #  About Me:
-- I'm currently a Professional Discord Developer.<br>Founder - [Apex Services](https://apex-services.netlify.app/)<br>- Currently working as CEO for The Tribe.<br>- Management and Executive Head for Shaaringaton.<br>- Founder of Aero Services.<br>- Currently learning AI/ML & Web Development.<br>- Looking forward to connect with you !
+- I'm currently a Professional Discord Developer.<br>- Founder - [Apex Services](https://apex-services.netlify.app/)<br>- Currently working as CEO for The Tribe.<br>- Management and Executive Head for Shaaringaton.<br>- Founder of Aero Services.<br>- Currently learning AI/ML & Web Development.<br>- Looking forward to connect with you !
 
 
 ## 🌐 Socials:
